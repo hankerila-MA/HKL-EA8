@@ -7,6 +7,11 @@ WhatsApp: +8613575789565
 
 Email: hankerilam214@163.com
 
+We would like to express our gratitude to author "John Cote" for his efforts in compiling the API definitions, which has laid a solid foundation for related work
+
+<img width="336" height="660" alt="{1F971A04-D0A3-4512-A6F8-F87391AE5DB3}" src="https://github.com/user-attachments/assets/71264670-8545-4764-a8ed-bcd1c340c12a" />
+
+
 ![幻灯片1](https://github.com/user-attachments/assets/2b51b5b0-3ed2-44fc-966a-8f4870e9d456)
 ![幻灯片2](https://github.com/user-attachments/assets/b2d1f931-7286-49c6-8669-2acf40faa5d0)
 ![幻灯片3](https://github.com/user-attachments/assets/38d7e95f-cf9b-4133-bb1b-96d7b3b61465)
